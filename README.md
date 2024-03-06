@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development and Data Science.**
 
-- 📫 How to reach me **parthgarg200@gmail.com**
+- 📫 How to reach me **[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theanupamshakya@gmail.com)](mailto:theanupamshakya@gmail.com)**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1IXz0KSCnhVYTsr2Rv_ITdHQzgIstuQqc](https://drive.google.com/drive/folders/1IXz0KSCnhVYTsr2Rv_ITdHQzgIstuQqc)
 
