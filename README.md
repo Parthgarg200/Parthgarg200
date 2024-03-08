@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theanupamshakya@gmail.com)](mailto:parthgarg200@gmail.com)**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1IXz0KSCnhVYTsr2Rv_ITdHQzgIstuQqc](https://drive.google.com/drive/folders/1IXz0KSCnhVYTsr2Rv_ITdHQzgIstuQqc)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-QHMNrtySmu7cfQTB0jjNOaLJD8d2dUC/view?usp=sharing](https://drive.google.com/file/d/1-QHMNrtySmu7cfQTB0jjNOaLJD8d2dUC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
