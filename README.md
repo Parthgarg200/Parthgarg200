@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Parth garg</h1>
-<h3 align="center">A passionate Full Stack Developer from India.</h3>
+<h3 align="center">A passionate Software Developer from India.</h3>
 
-- 🌱 I’m currently learning **MERN Stack and Python.**
+- 🌱 I’m currently learning **Data Science and Full Stack.**
 
-- 👯 I’m looking to collaborate on **Web Development and Python Projects.**
+- 👯 I’m looking to collaborate on **Python and Web Development Projects.**
 
-- 💬 Ask me about **Web Development and Data Science.**
+- 💬 Ask me about **Data Science and Web Development.**
 
 - 📫 How to reach me **[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:theanupamshakya@gmail.com)](mailto:parthgarg200@gmail.com)**
 
-- 📄 Know about my experiences [Click here.](https://drive.google.com/file/d/1bSVmbjo1fRR4CyM69QwgnIdV5t03jS_C/view?usp=sharing)
+- 📄 Know about my experiences [Click here.](https://drive.google.com/file/d/11Vz_9AbEHhnDHh9efKNzTAQdOsrGa118/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
